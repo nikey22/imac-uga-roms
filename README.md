@@ -1,5 +1,11 @@
 # imac-uga-roms
-A collection of modified vbios ROMs for PC based MXM video cards for iMac 2011 based computers. This ROM does not require a 3rd party bootloader like OpenCore. A color-pixel bug is still present. I am working on it. 
+A collection of modified vbios ROMs that include a working efi which enables bootscreen and native brightness control on MXM based video cards. This is tested on the iMac 2011 based computers. This ROM does not require a 3rd party bootloader like OpenCore to emulate bootscreens/brightness. A color-pixel bug is still present. I am working on it. 
+
+**Compatible machines**
+- iMac 27-Inch "Core i5" 2.7 (Mid-2011)	2.7 GHz Core i5 (I5-2500S)	Mid-2011	A1312 (EMC 2429)	iMac12,2
+- iMac 27-Inch "Core i5" 3.1 (Mid-2011)	3.1 GHz Core i5 (I5-2400)	Mid-2011	A1312 (EMC 2429)	iMac12,2
+- iMac 27-Inch "Core i7" 3.4 (Mid-2011)	3.4 GHz Core i7 (I7-2600)	Mid-2011	A1312 (EMC 2429)	iMac12,2
+
 
 **Pre-installation Requirements**
 - CH341a Programmer with Pomona clip
