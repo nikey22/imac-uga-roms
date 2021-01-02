@@ -1,6 +1,8 @@
 # imac-uga-roms
 A collection of modified vbios ROMs for PC based MXM video cards for iMac 2011 based computers. This ROM does not require a 3rd party bootloader like OpenCore. A color-pixel bug is still present. I am working on it. 
 
+**Pre-installation Requirements**
+- CH341a Programmer with Pomona clip
 
 
 **Post-installation Requirements** 
@@ -26,6 +28,6 @@ ABEABgALABQAHAAnADMAPwBOAFwAZwBzAIEAkQClAL8A2wD/
 - Applebacklight.kext.bak folder will be created
 - Reboot
 
-The above data pattern will allow for a wider span of steppings for the brightness control and utilizes more of the capacity of the HD3000. If you have a different machine, your panel ID can be found by going to System Preferences > Displays > Color > Open Profile > mmod
+The above data pattern will allow for a wider span of steppings for the brightness control and utilizes more of the capacity of the HD3000. If you have a different machine, your panel ID can be found by going to `System Preferences > Displays > Color > Open Profile > mmod`
 
-warning: please remember this is a WSON based card. You will be unable to recover from a bad flash with clip.
+warning: please remember this is a WSON based card. You will be unable to recover from a bad flash with a regular clip.
