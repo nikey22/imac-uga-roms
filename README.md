@@ -6,7 +6,6 @@ A collection of modified vbios ROMs that include a working efi which enables boo
 - iMac 27-Inch "Core i5" 3.1 (Mid-2011)	3.1 GHz Core i5 (I5-2400)	Mid-2011	A1312 (EMC 2429)	iMac12,2
 - iMac 27-Inch "Core i7" 3.4 (Mid-2011)	3.4 GHz Core i7 (I7-2600)	Mid-2011	A1312 (EMC 2429)	iMac12,2
 
-
 **Pre-installation Requirements**
 - Modification of the MXM-B 2 pipe or 3 pipe heatsink to allow clearance of the 2 inductors on nvidia cards
 - Nvidia based MXM-B Kepler based GPUs 
