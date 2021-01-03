@@ -16,7 +16,7 @@ A collection of modified vbios ROMs that include a working efi which enables boo
 - Choose Utilities > Terminal
 - Enter:`csrutil disable`
 - Reboot
-- Download and open 'Kext Utility v2.6.6' http://cvad-mac.narod.ru/index/0-4
+- Download and open [Kext Utility v2.6.6] (http://cvad-mac.narod.ru/index/0-4)
 - Navigate to S/L/E (System/Library/Extensions)
 - Copy "AppleBacklight.kext" to Desktop
 - Edit: AppleBacklight.kext/Contents/Info.plist
