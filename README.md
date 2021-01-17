@@ -11,9 +11,9 @@ A collection of modified vbios ROMs that include a working efi which enables boo
 - Nvidia based MXM-B Kepler based GPUs 
 - Backup original vbios rom by using the Linux USB grml.org:
 
-  `ssh root@your.ip`
-  `./nvflash_linux --save /root/original.rom`
-  from another computer:
+  `ssh root@your.ip`  
+  `./nvflash_linux --save /root/original.rom`  
+  from another computer:  
   `scp root@your.ip:/root/original.com`
 
 **Post-installation Requirements** 
