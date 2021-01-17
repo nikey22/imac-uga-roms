@@ -42,4 +42,4 @@ The above data pattern will allow for a wider span of steppings for the brightne
 
 `System Preferences > Displays > Color > Open Profile > mmod`
 
-warning: please remember this is a WSON based card. You will be unable to recover from a bad flash with a regular clip.
+warning: please remember these are WSON based card. You will be unable to recover from a bad flash with a regular clip using CH341a.
