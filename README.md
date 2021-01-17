@@ -10,7 +10,6 @@ A collection of modified vbios ROMs that include a working efi which enables boo
 - Modification of the MXM-B 2 pipe or 3 pipe heatsink to allow clearance of the 2 inductors on nvidia cards  
 - Nvidia based MXM-B Kepler based GPUs  
 - Backup original vbios rom by using the Linux USB grml.org:  
-  
   `ssh root@your.ip`  
   `./nvflash_linux --save /root/backup.rom`  
   from another computer:  
