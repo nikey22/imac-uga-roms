@@ -13,6 +13,7 @@ A collection of modified vbios ROMs that include a working efi which enables boo
 
   `ssh root@your.ip`
   `./nvflash_linux --save /root/original.rom`
+  from another computer:
   `scp root@your.ip:/root/original.com`
 
 **Post-installation Requirements** 
