@@ -12,9 +12,7 @@ A collection of modified vbios ROMs that include a working efi which enables boo
 - Backup original vbios rom by using the Linux USB grml.org:
 
   `ssh root@your.ip`
-  
   `./nvflash_linux --save /root/original.rom`
-  
   `scp root@your.ip:/root/original.com`
 
 **Post-installation Requirements** 
