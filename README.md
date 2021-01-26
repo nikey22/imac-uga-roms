@@ -20,7 +20,7 @@ A collection of modified vbios ROMs that include a working efi which enables boo
 - Turn computer on, hold down Command(⌘)-R
 - Choose Utilities > Terminal
 - Enter:`csrutil disable`
-- MacOS Catalina: requires you to make root writeable: sudo mount -uw /  
+- MacOS Catalina users: requires you to make root writeable: `sudo mount -uw /`  
 - Reboot
 - Download and open [Kext Utility v2.6.6](http://cvad-mac.narod.ru/index/0-4)
 - Navigate to S/L/E (System/Library/Extensions)
